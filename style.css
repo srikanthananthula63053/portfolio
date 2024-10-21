@@ -1,0 +1,52 @@
+body{
+    background-color: plum;
+}
+.bks {
+  background-color: aqua;
+  
+}
+p{
+    font-size : 20px;
+  }
+  h2{
+    font-size : 40px;
+  }
+  .cgi{
+    border : 0px solid black;
+  }
+  
+  .imc{
+    width : 60px;
+    height :50px;
+  }
+  
+  .ic{
+    display : inline-flex;
+    padding : 0px 0px 0px 50px;
+    
+  
+  }
+  .image{
+    float : right;
+  }
+  .main{
+    display : flex
+  }
+  .fg{
+    font-size : 50px
+  }
+  .head {
+    display : inline-flex;
+  }
+  .jk{
+    margin : 0px 0px 0px 220px;
+  }
+  .a{
+    text-decoration : none;
+    color : black;
+  }
+  #he {
+    font-size : 25px;
+    margin : 0px 0px 0px 30px;
+    padding : 0px 0px 0px 0px;
+  }
